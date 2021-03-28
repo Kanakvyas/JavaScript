@@ -25,7 +25,7 @@
 //     console.log(x)
 // }
 
-
+jhioojipoppjio
 
 let fruits = ['Apple', 'Banana', 'Grapes'];
 console.log (fruits);
